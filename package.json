@@ -1,0 +1,10 @@
+{
+    "name": "unicor-rest-api",
+    "description": "a minimal rest api with mongoDb",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "mongo":"2.6"
+    }
+}
