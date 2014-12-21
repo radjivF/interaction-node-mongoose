@@ -1,10 +1,8 @@
-apiRestMongoose
-===============
+Interaction MongoDB (2.2) with Node.js
+======================================
 
 How to use mongoDB with mongoose 
 
-Interaction MongoDB (2.2) with Node.js
-======================================
 This is a Rest Api example, this is a global example how to use Mongoose in a real case. .
 
 Every files can work independant.
