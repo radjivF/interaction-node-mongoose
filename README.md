@@ -1,4 +1,4 @@
-Interaction MongoDB (2.2) with Node.js
+Interaction Moogoose with Node.js
 ======================================
 
 How to use mongoDB with mongoose 
